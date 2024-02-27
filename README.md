@@ -1,2 +1,0 @@
-# freeman
-study node
